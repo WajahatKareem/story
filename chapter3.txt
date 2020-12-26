@@ -1,0 +1,2 @@
+Nodejs is a open source server environment.
+Node.Js allow you to turn javaScript on the server
